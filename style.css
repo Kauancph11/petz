@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    
+   
+}
+
+.header_petz{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.posicao{
+    width: 1400px;
+    margin: 0 auto
+}
+
+.navegacao a {
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.navegacao .cor_fonte{
+    color: #ff8800;
+}
+
+.posicionamento_section{
+    display: flex;
+   
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 30px;
+}
