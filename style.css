@@ -233,3 +233,37 @@ main {
     width: 50px;
     height: 50px;
 }
+
+.posicionamento_section4{
+    display: flex;
+    flex-direction: column;
+    background-color: #FFC988;
+    
+
+
+}
+
+.posicionatudo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.posicionamentotexto
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.textocontato{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    font-size: 40px;
+}
+
+.posicionamentotexto div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
